@@ -25,7 +25,7 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 
 ## Entre em contato:
 
-📧 **Email**: contactyagotoddy@gmail.com
+📧 **Email**: contactyagotoddy@gmail.com  
 💬 **Discord**: @yagotoddy
 
 ---
