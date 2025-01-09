@@ -4,19 +4,13 @@ Me chamo **Yago**, também conhecido como **Toddy**. Sou um desenvolvedor apaixo
 
 Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando as melhores práticas de desenvolvimento. Nos últimos 2 anos, tenho me dedicado a oferecer suporte para **FiveM**, desenvolvendo scripts e sistemas personalizados que ajudam servidores a se destacarem.
 
----
-
 ## Tecnologias e Ferramentas que uso:
 
 <img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,react,tailwind,vite,nodejs,mysql,discordjs,figma,git,vscode" />
-
----
 
 ## Entre em contato:
 
 📧 **Email**: contactyagotoddy@gmail.com  
 💬 **Discord**: @yagotoddy
-
----
 
 > "A tecnologia só tem valor real quando melhora a vida das pessoas."  
