@@ -6,7 +6,20 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 
 ## Tecnologias e Ferramentas que uso:
 
-<img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,react,tailwind,vite,nodejs,mysql,discordjs,figma,git,vscode" />
+[![](https://skillicons.dev/icons?i=lua)](https://www.lua.org/docs.html)
+[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![](https://skillicons.dev/icons?i=react)](https://www.typescriptlang.org/)
+[![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
+[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
+[![](https://skillicons.dev/icons?i=figma)](https://www.figma.com/downloads/)
+[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ## Entre em contato:
 
