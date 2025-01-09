@@ -25,9 +25,7 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 
 ## Entre em contato:
 
-📧 **Email**: seuemail@example.com  
-💬 **Discord**: Toddy#1234  
-🌐 **Portfólio**: [toddydev.com](https://toddydev.com)
+💬 **Discord**: yagotoddy
 
 ---
 
