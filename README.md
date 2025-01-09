@@ -8,18 +8,7 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 
 ## Tecnologias e Ferramentas que uso:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+<img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,react,tailwind,vite,nodejs,mysql,discordjs,figma,git,vscode" />
 
 ---
 
@@ -31,4 +20,3 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 ---
 
 > "A tecnologia só tem valor real quando melhora a vida das pessoas."  
-> 
