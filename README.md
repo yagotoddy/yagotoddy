@@ -24,6 +24,7 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 ## Entre em contato:
 
 📧 **Email**: contactyagotoddy@gmail.com  
-💬 **Discord**: @yagotoddy
+💬 **Discord**: [@yagotoddy](https://discord.com/users/790787014312198144)  
+💻 **Pronto para atender suas ideias e projetos!** 
 
 > "A tecnologia só tem valor real quando melhora a vida das pessoas."  
