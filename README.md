@@ -12,6 +12,7 @@ Minha especialidade é criar sistemas otimizados e funcionais, sempre buscando a
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
 [![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
 [![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
